@@ -23,7 +23,7 @@ server is http://localhost:3000/api/usersusers/{id} And Method Must be GET It gi
 
 http://localhost:3000/api/users/{id} And Method Must be POST It creates a user with Id given and data given by postman app
 
-Example: if you have to add a user with id =601 ( http://localhost:3000/api/users/601 and json payload is raw in postman app) For posting data in database you have to setup postman app setting up Postman App:-
+Example: if you have to add a user with id =601 ( http://localhost:3000/api/users/601 and json payload is raw in postman app) For posting data in database you have to setup postman app 
 
 
 http://localhost:3000/api/users/{id} And Method must be PUT It updates the user data of the specific id given Example http://127.0.0.1:5000/users/601 For Updating data in database you have to setup postman app
